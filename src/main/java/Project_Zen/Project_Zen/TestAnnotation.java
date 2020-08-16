@@ -32,6 +32,15 @@ public class TestAnnotation {
 	System.out.println("Florth  Method Executed");
 	
 }
+	
+	
+	@Test(priority= '5')
+	public void fifth (){
+	
+	System.out.println("Fifth  Method Executed");
+	
+}
+
 
 
 	
