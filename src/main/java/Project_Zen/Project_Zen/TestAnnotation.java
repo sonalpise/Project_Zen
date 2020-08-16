@@ -40,6 +40,13 @@ public class TestAnnotation {
 	System.out.println("Fifth  Method Executed");
 	
 }
+	
+	@Test(priority= '6')
+	public void sixth (){
+	
+	System.out.println("Sixth  Method Executed");
+	
+}
 
 
 
