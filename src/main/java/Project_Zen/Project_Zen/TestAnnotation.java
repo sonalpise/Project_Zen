@@ -1,0 +1,39 @@
+package Project_Zen.Project_Zen;
+
+import org.testng.annotations.Test;
+
+public class TestAnnotation {
+	
+	
+	@Test(priority= '1')
+	public void firstmethod (){
+		
+		System.out.println("First Method Executed");
+		
+	}
+	
+	@Test(priority= '3')
+	public void secondmethod (){
+		
+		System.out.println("Second  Method Executed");
+		
+	}
+
+	@Test(priority= '2')
+	public void third (){
+	
+	System.out.println("Thrid  Method Executed");
+	
+}
+
+	@Test(priority= '4')
+	public void forth (){
+	
+	System.out.println("Florth  Method Executed");
+	
+}
+
+
+	
+
+}

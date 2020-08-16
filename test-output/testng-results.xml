@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FirstTestingSuit" duration-ms="25050" started-at="2020-08-15T20:37:38Z" finished-at="2020-08-15T20:38:03Z">
+    <groups>
+    </groups>
+    <test name="FirstTestScripts" duration-ms="25050" started-at="2020-08-15T20:37:38Z" finished-at="2020-08-15T20:38:03Z">
+      <class name="Project_Zen.Project_Zen.TestNGScript1">
+        <test-method status="PASS" signature="configuration()[pri:0, instance:Project_Zen.Project_Zen.TestNGScript1@17695df3]" name="configuration" is-config="true" duration-ms="9940" started-at="2020-08-15T16:37:38Z" finished-at="2020-08-15T16:37:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method status="PASS" signature="timeout()[pri:0, instance:Project_Zen.Project_Zen.TestNGScript1@17695df3]" name="timeout" is-config="true" duration-ms="5031" started-at="2020-08-15T16:37:48Z" finished-at="2020-08-15T16:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeout -->
+        <test-method status="PASS" signature="login()[pri:49, instance:Project_Zen.Project_Zen.TestNGScript1@17695df3]" name="login" duration-ms="2695" started-at="2020-08-15T16:37:53Z" finished-at="2020-08-15T16:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="timeout()[pri:0, instance:Project_Zen.Project_Zen.TestNGScript1@17695df3]" name="timeout" is-config="true" duration-ms="5008" started-at="2020-08-15T16:37:56Z" finished-at="2020-08-15T16:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeout -->
+        <test-method status="PASS" signature="itenryCustomer()[pri:50, instance:Project_Zen.Project_Zen.TestNGScript1@17695df3]" name="itenryCustomer" duration-ms="2297" started-at="2020-08-15T16:38:01Z" finished-at="2020-08-15T16:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- itenryCustomer -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Project_Zen.Project_Zen.TestNGScript1@17695df3]" name="closeBrowser" is-config="true" duration-ms="55" started-at="2020-08-15T16:38:03Z" finished-at="2020-08-15T16:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Project_Zen.Project_Zen.TestNGScript1 -->
+      <class name="Project_Zen.Project_Zen.TestAnnotation">
+        <test-method status="PASS" signature="firstmethod()[pri:49, instance:Project_Zen.Project_Zen.TestAnnotation@6c9f5c0d]" name="firstmethod" duration-ms="0" started-at="2020-08-15T16:37:56Z" finished-at="2020-08-15T16:37:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstmethod -->
+        <test-method status="PASS" signature="third()[pri:50, instance:Project_Zen.Project_Zen.TestAnnotation@6c9f5c0d]" name="third" duration-ms="1" started-at="2020-08-15T16:38:03Z" finished-at="2020-08-15T16:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="secondmethod()[pri:51, instance:Project_Zen.Project_Zen.TestAnnotation@6c9f5c0d]" name="secondmethod" duration-ms="0" started-at="2020-08-15T16:38:03Z" finished-at="2020-08-15T16:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondmethod -->
+        <test-method status="PASS" signature="forth()[pri:52, instance:Project_Zen.Project_Zen.TestAnnotation@6c9f5c0d]" name="forth" duration-ms="1" started-at="2020-08-15T16:38:03Z" finished-at="2020-08-15T16:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forth -->
+      </class> <!-- Project_Zen.Project_Zen.TestAnnotation -->
+    </test> <!-- FirstTestScripts -->
+  </suite> <!-- FirstTestingSuit -->
+</testng-results>
