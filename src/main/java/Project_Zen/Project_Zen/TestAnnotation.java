@@ -47,11 +47,6 @@ public class TestAnnotation {
 	System.out.println("Sixth  Method Executed");
 	
 	}
-	@Test(priority= '7')
-	public void Seventh (){
-	
-	System.out.println("Seven  Method Executed");
-}
 
 
 
